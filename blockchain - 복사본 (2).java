@@ -1,12 +1,14 @@
-# MachineLearning
+# MachineLearning복사본2
 function1 {
 
 }
 
 function2 {
-
+from here I am starting 2021.6.24  9:36
 }
 
+
+=======
 function_박현준{
 	박현준함수입니다.
 }
